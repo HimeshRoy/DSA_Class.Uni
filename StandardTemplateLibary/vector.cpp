@@ -10,7 +10,7 @@ int main(){
      }
 
      cout<<"\n> Is the array empty : "<<arr.empty()<<endl; // empty() to check if the vector is empty of not
-3
+
      cout<<"> Array: ";
      for(auto x: arr){
           cout<<x<<" ";
